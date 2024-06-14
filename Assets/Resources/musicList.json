@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Dandelion Girls, Dandelion Boys",
+        "composer": "Mili",
+        "metaName": "dandelion",
+        "charts": [
+            {
+                "diff": "Easy",
+                "level": 10
+            },
+            {
+                "diff":"Hard",
+                "level":10
+            }
+        ]
+    },
+    {
+        "name": "tsuki-",
+        "composer": "yuiko",
+        "metaName": "tsuki-",
+        "charts": [
+            {
+                "diff": "Easy",
+                "level": 3
+            },
+            {
+                "diff": "Hard",
+                "level": 5
+            }
+        ]
+    }
+]
